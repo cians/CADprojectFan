@@ -2,7 +2,7 @@
 This is the project for cad course of Teacher Gao of zju modified on the CADproject. Portal:http://www.cnblogs.com/tiny656/p/3537085.html?utm_source=tuicool&utm_medium=referral.
 
 本项目在VS 2015 pro中编译运行。项目实现的是先通过欧拉操作实现一个带五个孔的平面图形：
-![image](https://github.com/cians/CADprojectFen/blob/master/Fen.jpg)
+![image](https://github.com/cians/CADprojectFen/blob/master/Fan.jpg)
  
 然后通过扫成生成三维形体。
 交互：按住鼠标右键拖动可以旋转观察角度，按住鼠标左键上下拖动可以放大缩小。
